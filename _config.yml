@@ -1,0 +1,10 @@
+title: PSim's Blog
+description: Simple blog
+baseurl: /blog
+url: https://prodigysim.github.io
+
+permalink: pretty
+theme: no-style-please
+
+home: /
+indexing: false
