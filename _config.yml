@@ -5,6 +5,7 @@ url: https://prodigysim.github.io
 
 permalink: pretty
 remote_theme: riggraz/no-style-please
+# theme: no-style-please
 
 home: /
 indexing: false
