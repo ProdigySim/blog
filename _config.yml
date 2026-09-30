@@ -1,7 +1,7 @@
 title: PSim's Blog
 description: Simple blog
-baseurl: /blog
-url: https://prodigysim.github.io
+baseurl: /
+url: https://blog.prodigysim.com
 
 permalink: pretty
 remote_theme: riggraz/no-style-please
