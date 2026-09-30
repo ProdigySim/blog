@@ -4,7 +4,7 @@ baseurl: /blog
 url: https://prodigysim.github.io
 
 permalink: pretty
-theme: no-style-please
+remote_theme: no-style-please
 
 home: /
 indexing: false
