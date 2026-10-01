@@ -103,8 +103,10 @@ new year:
 1. Run a business. If I think the silicon valley execs are crazy, I should put
    my money where my mouth is and see how I like calling the shots for
    everyting.
-   - I've set up an LLC and I'm currently hocking Magic: The Gathering cards. It
-     puts my C.S. degree to use by having me run sorting algorithms every day.
+   - I've set up an LLC and
+     [I'm currently hocking Magic: The Gathering cards](https://manapool.com/shop/psimtcg/profile).
+     It puts my C.S. degree to use by having me run sorting algorithms every
+     day.
    - I'm hoping to get back into the online gaming space and try to build
      something sustainable, and positive, to try to make up for failed attempts
      in the past.
