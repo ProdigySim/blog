@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Escaping the Rat Race"
+title: "Into the wild blue"
 ---
 
 ...or, entering the rat race.
