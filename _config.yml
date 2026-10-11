@@ -2,10 +2,13 @@ title: PSim's Blog
 description: Simple blog
 baseurl: /
 url: https://blog.prodigysim.com
+author:
+  PSim
 
 permalink: pretty
 remote_theme: riggraz/no-style-please
 # theme: no-style-please
+highlighter: rouge
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
@@ -15,3 +18,6 @@ theme_config:
 
 home: /
 indexing: false
+
+plugins:
+  - jekyll-feed
